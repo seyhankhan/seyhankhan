@@ -2,7 +2,7 @@
 
 Top 10 stuff             |  Current Project
 :-------------------------:|:-------------------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyhanvankhan&langs_count=10&layout=compact&theme=algolia)](https://github.com/seyhanvankhan/seyhanvankhan)  |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alizehkhan&repo=wandern&theme=algolia)](https://github.com/alizehkhan/wandern)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyhanvankhan&langs_count=10&layout=compact&theme=algolia)](https://github.com/seyhanvankhan)  |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alizehkhan&repo=wandern&theme=algolia)](https://github.com/alizehkhan/wandern)
 
 <!--
 **seyhanvankhan/seyhanvankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
